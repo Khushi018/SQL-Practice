@@ -1,5 +1,5 @@
 # SQL-Practice
-
+https://www.interviewbit.com/sql-interview-questions/
 <h3>1. What is Database? </h3> <br>
 
 A database is an organized collection of data, stored and retrieved digitally from a remote or local computer system. Databases can be vast and complex, and such databases are developed using fixed design and modeling approaches.
